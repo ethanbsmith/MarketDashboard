@@ -1,7 +1,7 @@
 Daily Chart Pack
 ================
 © Ethan Smith
-Generated on: Wed Mar 30 06:10:35 2022 MDT
+Generated on: Wed Mar 30 06:23:13 2022 MDT
 
 <style type="text/css">
 .main-container {
@@ -29,36 +29,29 @@ Generated on: Wed Mar 30 06:10:35 2022 MDT
 
 ### Weekly
 
-    ## 2022-03-30 06:10:36 | debug: cache timeout: getListings.tiingo 2022-03-29 -25.55 
-    ## 2022-03-30 06:10:36 | debug: cache timeout: getEarnings -25.59 
-    ## 2022-03-30 06:10:36 | debug: cache timeout: getEarnings.benzinga.live -25.59
-
-![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-1-2.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-1-3.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-1-4.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-1-5.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-1-6.png)<!-- -->
+![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-1-1.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-1-2.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-1-3.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-1-4.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-1-5.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-1-6.png)<!-- -->
 
 ### Daily
 
-![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-2-2.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-2-3.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-2-4.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-2-5.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-2-6.png)<!-- -->
+![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-2-1.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-2-2.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-2-3.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-2-4.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-2-5.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-2-6.png)<!-- -->
 
 ## Market Sentiment <a name="sentiment"></a>
 
 ### Breadth (with survivorship bias)
 
-![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-3-3.png)<!-- -->
+![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-3-1.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-3-2.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-3-3.png)<!-- -->
 
 ### Surveys ([AAII](https://www.aaii.com/sentimentsurvey/sent_results), [NAAIM](https://www.naaim.org/programs/naaim-exposure-index/))
 
-![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
+![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-4-1.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
 
 ## Earnings <a name="earnings"></a>
 
-    ## 2022-03-30 06:11:19 | debug: cache timeout: getRatings -26.28 
-    ## 2022-03-30 06:11:19 | debug: cache timeout: getRatings.benzinga.live -26.28
-
-![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-5-3.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-5-4.png)<!-- -->
+![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-5-1.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-5-2.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-5-3.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-5-4.png)<!-- -->
 
 ## Aggregate Investor Allocation to Equities (AIAE) Expected Returns <a name="aiae"></a> ([AIAE theory](http://www.philosophicaleconomics.com/2013/12/the-single-greatest-predictor-of-future-stock-market-returns/))
 
-![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-6-2.png)<!-- -->![](C:\Users\smith\OneDrive\Documents\Visual%20Studio%202013\Projects\SecEdgarEvents\MarketDashboard\Title_files/figure-gfm/unnamed-chunk-6-3.png)<!-- -->
+![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-6-1.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-6-2.png)<!-- -->![](C:\Users\smith\OneDrive\DOCUME~1\VISUAL~1\Projects\SECEDG~1\MARKET~1\TITLE_~1/figure-gfm/unnamed-chunk-6-3.png)<!-- -->
 
 ## Useful Links <a name="useful"></a>
 
